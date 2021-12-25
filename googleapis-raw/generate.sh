@@ -77,6 +77,8 @@ api/servicemanagement/v1
 cloud/asset/v1
 cloud/orgpolicy/v1
 cloud/osconfig/v1
+cloud/vision/v1
+cloud/speech/v1
 logging
 logging/type
 type
